@@ -27,6 +27,5 @@ Imports:
     utils,
     grDevices,
     grid
-Depends: 
-    R (>= 4.0.0)
+Depends: R (>= 4.0.0)
 LazyData: true
